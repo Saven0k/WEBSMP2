@@ -240,3 +240,364 @@
     padding-bottom: 49px;
     padding-right: 48px;
 }
+
+
+
+
+
+
+
+.header-2 {
+    margin-top: 100px;
+    height: 1440px;
+    width: auto;
+}
+
+.top-grid {
+    display: flex;
+    justify-content: center;
+    width: 1915px;
+    height: 491px;
+    gap: 30px;
+}
+
+.task{
+    width: 381px;
+    height: 291px;
+}
+
+.logo {
+    margin-left: 41px;
+    margin-top: 35px;
+    width: 70px;
+    height: 70px;
+    flex-shrink: 0;
+}
+
+.logo-large-text {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.logo-small-text {
+    width: 310px;
+    height: 42px;
+    flex-shrink: 0;
+    color: #666;
+    font-family: Gilroy-Regular;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 22.5px */
+    margin-top: 17px;
+    margin-left: 40px;
+}
+
+.readmore {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 16.5px */
+    margin-top: 25px;
+    margin-left: 40px;
+    margin-bottom: 25px;
+}
+
+
+
+
+
+.bot-grid {
+    display: inline;
+    justify-content: center;
+    width: 1920px;
+    height: 919px;
+    flex-shrink: 0;
+}
+
+.big-text-sec {
+    margin-top: 92px;
+    margin-bottom: 19px;
+    display: flex;
+    justify-content: center;
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.small-text-sec {
+    margin-bottom: 31px;
+    display: flex;
+    justify-content: center;
+    color: #666;
+    text-align: center;
+    font-family: Gilroy-Regular;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+}
+
+.list-menu {
+    margin-left: 257px;
+    margin-bottom: 57px;
+    display: flex;
+    justify-content: center;
+    gap: 28px;
+    width: 1440px;
+    height: 616px;
+}
+
+.point {
+    margin-top: 23px;
+    width: 370px;
+    height: 549px;  
+    display: inline;
+    justify-content: center;
+}
+
+.img-point {
+    width: 396px;
+    height: 297px;
+    flex-shrink: 0;
+}
+
+.big-text-point {
+    display: flex;
+    justify-content: center;
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 22px;
+}
+
+.small-text-point {
+    display: flex;
+    margin-left: 30px;
+    width: 310px;
+    height: 63px;
+    flex-shrink: 0;
+    color: #AAA;
+    text-align: center;
+    font-family: Gilroy-Regular;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 22.5px */
+    margin-bottom: 39px;
+}
+
+.b-learmore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 50px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    background-color: #fff;
+    border: #FFF;
+}
+
+.learmore {
+    color: #FFF;
+    text-align: center;
+    font-family: Gilroy-Bold;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 19.5px */
+}
+
+
+.header-3 {
+    margin-top: 100px;
+    width: auto;
+    height: auto;
+    display:inline;  
+    justify-content: center;
+}
+
+.top-board-grid {
+    width: 1899px;
+    height: 476px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(3, 381px);
+    gap: 30px;
+}
+
+.gird-board {
+    width: 381px;
+    height: 291px;
+    padding-left: 30px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.board-img {
+    margin-top: 35px;
+    margin-right: 270px;
+    margin-bottom: 25px;
+    width: 70px;
+    height: 70px;
+    flex-shrink: 0;
+}
+
+.board-big-text {
+    margin-right: 126px;
+    margin-bottom: 17px;
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.board-small-text {
+    margin-right: 31px;
+    margin-bottom: 25px;
+    width: 310px;
+    height: 42px;
+    flex-shrink: 0;
+    color: #666;
+    font-family: Gilroy-Regular;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 22.5px */
+}
+
+.board-read-more {
+    margin-right: 277px;
+    margin-bottom: 30px;
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 16.5px */
+}
+
+.bottom-big-text{
+    display: flex;
+    justify-content: center;
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 19px;
+    margin-top: 92px;
+}
+.botton-small-text{
+    color: #666;
+    text-align: center;
+    font-family: Gilroy-Regular;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+
+}
+
+.b-grid-board {
+    display: inline;
+    justify-content: center;
+    margin-top: 55px;
+    background: #FFF;
+    box-shadow: 15px 25px 60px -5px rgba(0, 0, 0, 0.10);
+}
+
+.b-img-board {
+    display: flex;
+    justify-content: center;
+    width: 385px;
+    height: 289px;
+    flex-shrink: 0;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.b-big-text-board {
+    margin-bottom: 22px;
+    text-align: center;
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.b-small-text-board{
+    margin-bottom: 39px;
+    color: #AAA;
+    text-align: center;
+    font-family: Gilroy-Regular;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 22.5px */
+}
+
+.bottom-grid-board{
+    width: 1899px;
+    height: 476px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(3, 370px);
+    gap: 30px;
+}
+.bottom-grid{
+    background: #FAFAFA;
+    width: 1920px;
+    height: 919px;
+    flex-shrink: 0;
+}
+
+.botton-grid {
+    display: flex;
+    justify-content: center;
+}
+.b-grid-button{
+     display: flex;
+     justify-content: center;
+    margin-bottom: 50px;
+}
+
+.g-button{
+    color: #FFF;
+    text-align: center;
+    font-family: Gilroy-Bold;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 19.5px */
+}
+
+.img-buttton {
+    width: 150px;
+    height: 50px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+}
